@@ -124,7 +124,7 @@ A API utiliza autenticação via JWT.
 ## Documentação
 
 - Swagger: './rent-api/openapi.yaml'
-- Postman Collection: './rent-api/docs/postman/'
+- Postman Collection: './rent-api/docs/postman/rent_api.postman_collection.json'
 
 ---
 
