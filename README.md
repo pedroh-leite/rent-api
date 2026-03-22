@@ -44,7 +44,7 @@ Assim terá o banco de dados da aplicação já criado e estruturado para recebe
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/rent-api.git
+git clone https://github.com/pedroh-leite/rent-api.git
 
 # Acesse a pasta
 cd rent-api
