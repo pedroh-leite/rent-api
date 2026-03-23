@@ -79,12 +79,10 @@ Crie um arquivo `.env` na raiz do projeto:
 ```env
 PORT=3000
 
-DB_HOST=suaPortaMySQL
-DB_USER=seuUser
-DB_PASSWORD=suaSenha
-DB_NAME=rentDB
-JWT_USER=seuUser
-JWT_SECRET=suaSecret
+DB_PASSWORD=suaSenhaDB
+DB_USER=seuUserDB
+USER_JWT=seuUser
+PASSWORD_JWT=suaSenha
 ```
 ---
 
